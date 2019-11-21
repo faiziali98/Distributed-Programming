@@ -6,7 +6,6 @@
 // The server is also responsible to see if
 // any of the client has left or is disconnected
 //
-// Feature to add: Lampart
 //
 // Created by: Faizan Safdar Ali
 
